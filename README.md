@@ -1,67 +1,66 @@
-<h1 align="center">Hola 👋, soy Michael Andres Ortiz Bernal</h1>
-<h3 align="center">Desarrollador Backend | Apasionado por Python, C++ y Java</h3>
+<h1 align="center">Hello 👋, I'm Michael Andres Ortiz Bernal</h1>
+<h3 align="center">Backend Developer | Passionate about Python, C++ and Java</h3>
 
 ---
 
-## 🚀 Ingeniería de Sistemas y Computación
+## 🚀 Systems and Computing Engineering
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-- 🎓 Soy estudiante de **Ingeniería de Sistemas y Computación** en la **Universidad Nacional de Colombia**.
-- 💻 Me especializo en el desarrollo **Backend**, con experiencia en **Python**, **C++** y **Java**.
-- 🗃️ Trabajo con bases de datos como **SQL Server Management Studio** y **SQLite**.
-- 🛠️ Utilizo **Visual Studio Code** y **IntelliJ IDEA** como entornos de desarrollo principales.
-- 📚 Actualmente estoy profundizando en temas de **Ingeniería de Software**, **Arquitectura Backend** y **Diseño de Sistemas**.
-- 🌱 Me apasiona resolver problemas, escribir código limpio y aprender nuevas tecnologías constantemente.
+- 🎓 I’m a **Systems and Computing Engineering** student at the **National University of Colombia**.  
+- 💻 I specialize in **Backend development**, with experience in **Python**, **C++**, and **Java**.  
+- 🗃️ I work with databases like **SQL Server Management Studio** and **SQLite**.  
+- 🛠️ I use **Visual Studio Code** and **IntelliJ IDEA** as my main development environments.  
+- 📚 I’m currently deepening my knowledge in **Software Engineering**, **Backend Architecture**, and **System Design**.  
+- 🌱 I'm passionate about problem solving, writing clean code, and constantly learning new technologies.  
 
 <p align="center">
   <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 </p>
+
 ---
 
-## 🧰 Tecnologías
+## 🧰 Technologies
 
-### 🖥️ Lenguajes de programación
+### 🖥️ Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 🗃️ Bases de datos
+### 🗃️ Databases
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠️ Herramientas y entornos
+### 🛠️ Tools and Environments
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📫 Contáctame
+## 📫 Contact Me
 
-[![Correo UNAL](https://img.shields.io/badge/Correo-mortizbe@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortizbe@unal.edu.co)
+[![UNAL Email](https://img.shields.io/badge/Email-mortizbe@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mortizbe@unal.edu.co)
 
 ---
 
-## 📌 Proyecto Destacado
+## 📌 Featured Project
 
 ### 🔹 [Bogotravel](https://github.com/adrianyebid/ingenieria-software1-grupo-naruto)
 
-**Bogotravel** es un sistema para gestionar un diario de viajes donde los usuarios pueden:
+**Bogotravel** is a travel journal management system where users can:
 
-- 🔐Iniciar y Cerrar sesión de forma segura
-- 📝 Crear y filtrar entradas por fecha, lugar o etiquetas  
-- 📎 Adjuntar archivos o reseñas    
-- 🌍 Organizar recuerdos en una plataforma intuitiva
+- 🔐 Log in and out securely  
+- 📝 Create and filter entries by date, location, or tags  
+- 📎 Attach files or reviews  
+- 🌍 Organize memories on an intuitive platform  
 
-> Desarrollado en **Java** usando **JavaFX**, siguiendo principios de arquitectura limpia y una interfaz amigable para el usuario.
+> Developed in **Java** using **JavaFX**, following clean architecture principles and offering a user-friendly interface.
 
 ---
-
-
