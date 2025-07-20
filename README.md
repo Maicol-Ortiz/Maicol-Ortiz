@@ -64,3 +64,9 @@
 > Developed in **Java** using **JavaFX**, following clean architecture principles and offering a user-friendly interface.
 
 ---
+
+## 🕹️ Pac-Man Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maicol-Ortiz/profile-readme-generator/main/profile-3d-contrib/profile-pacman.svg" />
+</p>
