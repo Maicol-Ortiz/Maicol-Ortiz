@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Michael Andrés Ortiz Bernal</h1>
+<h1 align="center">Hola 👋, soy Michael Andres Ortiz Bernal</h1>
 <h3 align="center">Desarrollador Backend | Apasionado por Python, C++ y Java</h3>
 
 ---
