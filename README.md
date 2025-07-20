@@ -54,19 +54,13 @@
 
 **Bogotravel** es un sistema para gestionar un diario de viajes donde los usuarios pueden:
 
+- 🔐Iniciar y Cerrar sesión de forma segura
 - 📝 Crear y filtrar entradas por fecha, lugar o etiquetas  
-- 📎 Adjuntar archivos o reseñas  
-- 🔐Iniciar y Cerrar sesión de forma segura  
+- 📎 Adjuntar archivos o reseñas    
 - 🌍 Organizar recuerdos en una plataforma intuitiva
 
 > Desarrollado en **Java** usando **JavaFX**, siguiendo principios de arquitectura limpia y una interfaz amigable para el usuario.
 
 ---
 
-## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelortizb&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelortizb&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</div>
